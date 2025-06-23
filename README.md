@@ -1,4 +1,4 @@
-# 🐯 Ssup, I'm Mihir aka MS.
+# 🏞 Ssup, I'm Mihir aka MS.
 I am a Founder,trying building leverages for industries. I have been building products in domains like marketplaces,consumer-tech, B2B SaaS and AI agents.
 
 
